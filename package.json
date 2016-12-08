@@ -1,0 +1,9 @@
+{
+	"name": "pome-masterha-plugin",
+	"version": "0.0.4",
+	"private": false,
+	"dependencies": {
+  	"node-zookeeper-client": "^0.2.0",
+  	"pome-logger": "^0.1.1"
+	}
+}
